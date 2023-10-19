@@ -1,6 +1,4 @@
-# WG21: ${PAPER_TITLE}
-
-This repo is a template used for making repos for creating papers for `WG21: C++ Standards Committee Papers`. Please remove this line after cloning the template.
+# WG21 P3022: A Boring Thread Attributes Interface
 
 This repo is work for [WG21: C++ Standards Committee Papers](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/).
 
@@ -15,9 +13,9 @@ Template: [https://github.com/mpark/wg21](https://github.com/mpark/wg21).
 
 ## Published Revisions
 
-* ${PAPER_REVISION}:
-  * [https://wg21.link/${PAPER_REVISION}](https://wg21.link/${PAPER_REVISION}), ${DATE}
-  * souce: [${PAPER_REVISION}.md](./revisions/${PAPER_REVISION}.md)
+* P3022R0:
+  * [https://wg21.link/P3022R0](https://wg21.link/P3022R0), 2023-10-14.
+  * souce: [P3022R0.md](./revisions/P3022R0.md)
 
 ## Install Deps
 
