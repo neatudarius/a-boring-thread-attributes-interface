@@ -13,9 +13,9 @@ case "${OS}" in
 esac
 
 # Install wg21 build helpers.
-git submodule add https://github.com/mpark/wg21.git
+# git submodule add -f https://github.com/mpark/wg21.git
 echo "include wg21/Makefile" > Makefile
 
 # Instal clang-format runner helper.
-git submodule add "https://github.com/Sarcasm/run-clang-format.git"
+# git submodule add -f "https://github.com/Sarcasm/run-clang-format.git"
 rm -rf  run-clang-format/src
