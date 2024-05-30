@@ -4,7 +4,7 @@ Authors: David Sankel ([@camio](https://github.com/camio)), Darius Neațu ([@nea
 
 Audience: Library Evolution
 
-Abstract: The standard library lacks facilities to configure stack sizes or names for threads. This has resulted in a proliferation of code making use of unportable, platform-specific thread libraries. This paper argues that a simple, standardized, thread attribute API is a preferred solution to this problem.
+Description: The standard library lacks facilities to configure stack sizes or names for threads. This has resulted in a proliferation of code making use of unportable, platform-specific thread libraries. This paper argues that a simple, standardized, thread attribute API is a preferred solution to this problem.
 
 > Note: This repo/paper is work for [WG21: C++ Standards Committee Papers](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/).
 
