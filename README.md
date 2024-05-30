@@ -1,7 +1,12 @@
 # WG21 P3022: A Boring Thread Attributes Interface
 
-This repo is work for [WG21: C++ Standards Committee Papers](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/).
+Authors: David Sankel <dsankel@adobe.com> (@camio), Darius Neațu <dariusn@adobe.com> (@neatudarius)
 
+Audience: Library Evolution
+
+Abstract: The standard library lacks facilities to configure stack sizes or names for threads. This has resulted in a proliferation of code making use of unportable, platform-specific thread libraries. This paper argues that a simple, standardized, thread attribute API is a preferred solution to this problem.
+
+> Note: This repo/paper is work for [WG21: C++ Standards Committee Papers](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/).
 
 ## Introduction
 The top-level of this repository contains the source code for various proposals and the generated/ directory contains the generated proposals (HTML or PDF).
@@ -15,7 +20,7 @@ Template: [https://github.com/mpark/wg21](https://github.com/mpark/wg21).
 
 * P3022R0:
   * [https://wg21.link/P3022R0](https://wg21.link/P3022R0), 2023-10-14.
-  * souce: [P3022R0.md](./revisions/P3022R0.md)
+  * source: [P3022R0.md](./revisions/P3022R0.md)
 
 ## Install Deps
 
