@@ -1,6 +1,6 @@
 # WG21 P3022: A Boring Thread Attributes Interface
 
-Authors: David Sankel <dsankel@adobe.com> (@camio), Darius Neațu <dariusn@adobe.com> (@neatudarius)
+Authors: David Sankel ([@camio](https://github.com/camio)), Darius Neațu ([@neatudarius](https://github.com/neatudarius))
 
 Audience: Library Evolution
 
