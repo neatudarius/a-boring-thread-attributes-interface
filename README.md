@@ -1,6 +1,6 @@
 # WG21 P3022: A Boring Thread Attributes Interface
 
-Authors: David Sankel ([@camio](https://github.com/camio)), Darius Neațu ([@neatudarius](https://github.com/neatudarius))
+Authors: Darius Neațu ([@neatudarius](https://github.com/neatudarius)), David Sankel ([@camio](https://github.com/camio))
 
 Audience: Library Evolution
 
@@ -21,6 +21,13 @@ Template: [https://github.com/mpark/wg21](https://github.com/mpark/wg21).
 * P3022R0:
   * [https://wg21.link/P3022R0](https://wg21.link/P3022R0), 2023-10-14.
   * source: [P3022R0.md](./revisions/P3022R0.md)
+ 
+* P3022R1:
+  * [https://wg21.link/P3022R1](https://wg21.link/P3022R1), 2023-11-28.
+  * source: [P3022R1.md](./revisions/P3022R1.md)
+
+Resolution: [cplusplus: P3022 R1 A Boring Thread Attributes Interface #1683
+](https://github.com/cplusplus/papers/issues/1683) was closed with P3022 being rejected. Details in `LEWG feedback section` from `P3022R1`.
 
 ## Install Deps
 
